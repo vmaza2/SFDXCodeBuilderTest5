@@ -1,0 +1,16 @@
+<apex:page controller="Testclass1">
+    <!-- Begin Default Content REMOVE THIS -->
+    <h1>Congratulations</h1>
+    This is your new Page
+    <!-- End Default Content REMOVE THIS -->
+    <br/>
+    <br/>
+    <apex:form>
+        <apex:commandButton action="{!setName}" value="Get Name" id="theViewButton" />
+        
+    </apex:form>
+    <br/>
+    <br/>
+    <apex:outputText value="The name is: {!Name}"/>
+
+</apex:page>

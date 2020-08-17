@@ -1,7 +1,7 @@
 {
-  "orgName": "Demo company",
-  "edition": "Developer",
-  "features": [],
+  "orgName": "DEV Scratch Org",
+  "edition": "Enterprise",
+  "features": ["DebugApex"],
   "settings": {
     "lightningExperienceSettings": {
         "enableS1DesktopEnabled": true
