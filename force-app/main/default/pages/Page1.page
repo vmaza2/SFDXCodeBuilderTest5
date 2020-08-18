@@ -1,6 +1,6 @@
 <apex:page controller="Testclass1">
     <!-- Begin Default Content REMOVE THIS -->
-    <h1>Congratulations Vlad</h1>
+    <h1>Congratulations Vlad again</h1>
     This is your new Page
     <!-- End Default Content REMOVE THIS -->
     <br/>
